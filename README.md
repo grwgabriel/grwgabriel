@@ -5,9 +5,9 @@
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grwgabriel&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 Atualmente estou estudando **Estatística**
 
-- 💬 Pergunte-me sobre **Power BI, SQL e Excel**
+- 💬 Pergunte-me sobre **Power BI, SQL, Python e Excel**
 
 - 📫 Você me encontra no e-mail **gabrielwermuth1@gmail.com**
 
